@@ -13,7 +13,7 @@ function App() {
   }
 
   return (
-    <main className="container">
+    <main className="px-5 bg-red-400">
       <h1>Welcome to Tauri + React</h1>
 
       <div className="row">
